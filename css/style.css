@@ -77,14 +77,14 @@ btn:hover {
 
 ul.nav {
 	margin: 0 auto;
-	padding: 120px 0 0 0;
+	padding: 170px 0 0 0;
 	list-style: none;
 	float: right;
 }
 
 ul.nav li {
 	float: left;
-	margin-right: 40px;
+	margin-right: 70px;
 }
 
 ul.nav li.last {
