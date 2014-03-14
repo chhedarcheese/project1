@@ -1,0 +1,42 @@
+[33mcommit 7a3480b933aedd6e26c8b7767dc65f8fe0500f7b[m
+Author: Nirav <niravchheda@gmail.com>
+Date:   Thu Mar 13 22:16:58 2014 -0700
+
+    Made the top link look a bit nicer
+
+[33mcommit 54e392f81820acff20c186f3fc31206d214e8c66[m
+Author: Nirav <niravchheda@gmail.com>
+Date:   Thu Mar 13 22:13:42 2014 -0700
+
+    added new text
+
+[33mcommit 2d2b29bab0a3acb011c853163eabd5e5dc1d927f[m
+Author: Nirav <niravchheda@gmail.com>
+Date:   Thu Mar 13 22:00:49 2014 -0700
+
+    Removing froggy pic
+
+[33mcommit 1e0a3399e2fc05da6e23d70c21c4a625d8166e1b[m
+Author: Nirav <niravchheda@gmail.com>
+Date:   Thu Mar 13 21:52:32 2014 -0700
+
+    added new images and updated img tags
+
+[33mcommit 695b1e34ae438deb5afe6210083f2d6154b284a1[m
+Merge: 7e950b4 514c7c0
+Author: Nirav <niravchheda@gmail.com>
+Date:   Thu Mar 13 13:12:26 2014 -0700
+
+    Merge branch 'master' of https://github.com/niravchheda/project1
+
+[33mcommit 7e950b486e2cf10c1a626adff322f94990bcf22a[m
+Author: Nirav <niravchheda@gmail.com>
+Date:   Thu Mar 13 13:04:29 2014 -0700
+
+    Added original website files
+
+[33mcommit 514c7c0eaaaa1d1689d1646f932cb8da35d0e8a4[m
+Author: niravchheda <niravchheda@gmail.com>
+Date:   Thu Mar 13 12:24:31 2014 -0700
+
+    Initial commit
