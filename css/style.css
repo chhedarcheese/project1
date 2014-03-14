@@ -1,7 +1,7 @@
 body {
-	font-family: 'Nunito', sans-serif;
+	font-family: times, sans-serif;
 	color: #faf3bc;
-	background: #BC7642;
+	background: #BC7642 url('img/sand1.jpg') repeat;
 }
 
 a {
@@ -10,7 +10,7 @@ a {
 }
 
 h1 {
-	font-size: 1.750em;
+	font-size: 1.850em;
 	font-weight: 100;
 	letter-spacing: -1.5px;
 }
@@ -31,7 +31,7 @@ h3 {
 	padding: 15px 30px;
 	margin: 40px 0;
 	color: #faf3bc;
-	background: #4fb69f url('img/texture.png') no-repeat right top;
+	background: #000000 url('img/texture.png') no-repeat right top;
 	border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
@@ -39,7 +39,9 @@ h3 {
 }
 
 btn:hover {
-	background-color: #4cc4a7;
+	background-color: #4fb69f;
+	color: #000000;
+	padding: 0px;
 }
 
 
@@ -48,7 +50,7 @@ btn:hover {
 	margin: 50px 0;
 	color: #faf3bc;
 	font-size: .75em;
-	background: #b22316 url('texture.png') no-repeat right bottom;
+	background: #b22316 url('img/sand2.jpg') no-repeat right bottom;
 	border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
